@@ -29,4 +29,6 @@ Use $skill-installer to install https://github.com/ioma8/simply-kiss.
 ```text
 $simply-kiss review this module for unnecessary complexity.
 $simply-kiss implement this feature with the simplest maintainable design.
+do /simply-kiss analysis of all uncommited changes. list me all the findings, do not patch anything yet
+do /simply-kiss analysis of whole repo. list me all the findings, do not patch anything yet
 ```
