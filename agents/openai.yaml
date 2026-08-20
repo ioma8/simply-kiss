@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simply KISS"
+  short_description: "Keep code simple, explicit, and easy to change"
+  default_prompt: "Use $simply-kiss to simplify this scope and suggest the highest-value cleanups."
